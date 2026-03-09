@@ -43,7 +43,7 @@ El proyecto está organizado de la siguiente manera:
 
 ---
 
-## Instrucciones para ejecutar el archivo
+## Instrucciones para ejecutar el notebook**
 
 1. Abrir **`analisis_ventas.ipynb`** en **Colab** .  
 2. Cargar los archivos de datos de ventas en el entorno.  
