@@ -23,20 +23,21 @@ El proyecto está organizado de la siguiente manera:
 
 ## Ejemplos de gráficos e insights obtenidos
 
-1.
+1.**Ingresos por tienda**
+  Graficos de barras mostrando el ingreso por tienda
+
+   ![Productos vendidos](./Gráficos/ingresos_por_tienda.png)
 
 2. **Ventas por categoría**  
    Gráfico de barras mostrando cuáles son las categorías más populares en cada tienda.  
 
-   ![Ventas por categoría](./graficos/ventas_por_categoria.png)
+   ![Ventas por categoría](./Gráficos/ventas_por_categoria.png)
 
 3. **Valoración media por tienda**  
    Permite identificar qué tiendas tienen la mayor satisfacción de clientes.  
 
-   ![Valoración media](./graficos/valoracion_media.png)
+   ![Valoración media](./Gráficos/valoracion_promedio.png)
 
-
-   ![Productos vendidos](./graficos/productos_vendidos.png)
 
 **Insights generales:**  
 - Algunas tiendas dominan ciertas categorías específicas.  
